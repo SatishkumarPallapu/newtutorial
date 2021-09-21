@@ -1,0 +1,2 @@
+Hello im adding data in alicefile
+I want to know the process of adding commits 
