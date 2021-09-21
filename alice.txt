@@ -1,5 +1,4 @@
-This is satya
-How are you doing?
 
+How are you doing?
 Hello im adding data in alicefile
 I want to know the process of adding commits 
